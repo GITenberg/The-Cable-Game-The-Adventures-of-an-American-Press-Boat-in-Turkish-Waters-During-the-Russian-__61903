@@ -1,0 +1,27 @@
+_repo: The-Cable-Game-The-Adventures-of-an-American-Press-Boat-in-Turkish-Waters-During-the-Russian-__61903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washburn, Stanley
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '46466'
+    url: http://www.gutenberg.org/2009/agents/46466
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61903'
+  lccn: '12000245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Black Sea -- Description and travel'
+- !lcsh 'Russia -- History -- Nicholas II, 1894-1917'
+- GITenberg
+title: "The Cable Game\r\nThe Adventures of an American Press-Boat in Turkish Waters\
+  \ During the Russian Revolution"
+url: http://www.gutenberg.org/ebooks/61903
